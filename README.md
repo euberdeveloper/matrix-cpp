@@ -7,6 +7,8 @@ This library was made to avoid me wasting time with calculus when I studied Line
 
 ## Example
 
+With this code:
+
 ```c++
 #include <iostream>
 #include "Matrix.h"
@@ -40,6 +42,10 @@ int main() {
     }
 }
 ```
+The result could be:
+
+![Example Result](https://github.com/euberdeveloper/matrix-cpp/blob/master/matrix_example.png)
+
 ## Run tests
 
 On windows, you can use these three batch file to build/run/build&run tests:
